@@ -1,6 +1,7 @@
 protein-restrains
 ==============================
 
+[!Tests](https://github.com/ja-nina/protein-restrains/actions/workflows/tests.yml/badge.svg)
 A short description of the project.
 
 Project Organization
